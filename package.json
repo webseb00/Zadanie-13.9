@@ -1,0 +1,21 @@
+{
+  "name": "zadanie-13.9",
+  "version": "1.0.0",
+  "description": "upload files with node.js",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon program.js"
+  },
+  "keywords": [
+    "files",
+    "upload",
+    "node.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "formidable": "^1.2.1"
+  }
+}
